@@ -1,3 +1,17 @@
 {
+	"messages": [
+		{ "id": 7818,
+		  "from": "Mavenir s.r.o",
+		  "to": "internShip",
+		  "subject": "testMessage",
+		  "text": "Done!!"
+		},
+		{ "id": 7819,   
+                  "from": "internShip",      
+                  "to": "Mavenir s.r.o",
+                  "subject": "testMessage_xxx",     
+                  "text": "some text"
+                }
+	],   	
 	"user": "xx"
 }
